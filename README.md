@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 -->
 | Project           | Demo                     | Date       | What I Learned                                                                 |
 |-------------------|--------------------------|------------|-------------------------------------------------------------------------------|
+| [Presentation](https://github.com/linawashere/presentation-ai) | [Link](https://youtu.be/GFAnz-bpGz8?si=KqQCwv9VJEnn_nQT) | Apr 2025 | Research on the chosen topic - "Web development in the age of artificial intelligence" |
+| [Vanilla project](https://github.com/linawashere/vanilla-project/tree/dev) | — | Mar 2025 | Creating UI components using pug, gulp, sass, js technologies |
+| [HTML-builder](https://github.com/linawashere/HTML-builder) | — | Dec 2024 | The main goal of this series of tasks is to understand the basics of working with the Node.js platform. The final touch will be the creation of a small application for building a static website |
 | [Christmas Shop](https://github.com/linawashere/christmas-shop/tree/gh-pages)    | [Link](https://linawashere.github.io/christmas-shop/)  | Nov 2024   | Semantic and responsive design, clean maintainable code, exporting assets from Figma, and using JavaScript for task-specific functionality |
+| [CV](https://github.com/linawashere/rsschool-cv/tree/rsschool-cv-html?tab=readme-ov-file) | [Link](https://github.com/linawashere/rsschool-cv/blob/rsschool-cv-html/cv.md)| Nov 2024 | Introduction to Markdown |
 | [My first project](https://github.com/linawashere/my-very-first-project/tree/gh-pages) | [Link](https://linawashere.github.io/my-very-first-project/) | May 2016 | Introduction to markup language |
 
 ## 💼 Skills & Technologies
