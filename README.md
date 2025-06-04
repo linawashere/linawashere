@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 | Project           | Demo                     | Date       | What I Learned                                                                 |
 |-------------------|--------------------------|------------|-------------------------------------------------------------------------------|
-| [Christmas Shop](https://github.com/linawashere/christmas-shop)    | [Link]([https://example.com](https://linawashere.github.io/christmas-shop/))  | Nov 2024   | Semantic and responsive design, clean maintainable code, exporting assets from Figma, and using JavaScript for task-specific functionality |
+| [Christmas Shop]((https://github.com/linawashere/christmas-shop/tree/gh-pages))    | [Link](https://linawashere.github.io/christmas-shop/)  | Nov 2024   | Semantic and responsive design, clean maintainable code, exporting assets from Figma, and using JavaScript for task-specific functionality |
 
 ## 💼 Skills & Technologies
 
