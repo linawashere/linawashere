@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| Project           | Demo                     | Date       | What I Learned                                                                 |
+|-------------------|--------------------------|------------|-------------------------------------------------------------------------------|
+| [Christmas Shop](https://github.com/linawashere/christmas-shop)    | [Link]([https://example.com](https://linawashere.github.io/christmas-shop/))  | Nov 2024   | Semantic and responsive design, clean maintainable code, exporting assets from Figma, and using JavaScript for task-specific functionality |
 
 ## 💼 Skills & Technologies
 
@@ -33,6 +36,10 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📫 Contact me
+- My CV: [RS School](https://app.rs.school/cv/964bff88-32c0-48f5-b444-212f7b45cdbe)
+- Telegram: [@linnawashere](https://t.me/linnawashere)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linawashere&layout=compact&theme=dark&langs_count=6)
