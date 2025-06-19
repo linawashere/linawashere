@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 | Project           | Demo                     | Date       | What I Learned                                                                 |
 |-------------------|--------------------------|------------|-------------------------------------------------------------------------------|
+| [Fashion sneaker store]() | [Link](https://deploy-preview-81--di-or-die-market.netlify.app/) | Apr 2025- Jun 2025 | Practicing skills in creating a modern web application using TypeScript, learning how to work with API (CommerceTools) and technologies for building SPA. Gaining experience in teamwork, including distribution of tasks, using Agile methodologies |
 | [Presentation](https://github.com/linawashere/presentation-ai) | [Link](https://youtu.be/GFAnz-bpGz8?si=KqQCwv9VJEnn_nQT) | Apr 2025 | Research on the chosen topic - "Web development in the age of artificial intelligence" |
 | [Vanilla project](https://github.com/linawashere/vanilla-project/tree/dev) | — | Mar 2025 | Creating UI components using pug, gulp, sass, js technologies |
 | [HTML-builder](https://github.com/linawashere/HTML-builder) | — | Dec 2024 | The main goal of this series of tasks is to understand the basics of working with the Node.js platform. The final touch will be the creation of a small application for building a static website |
