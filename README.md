@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 | [HTML-builder](https://github.com/linawashere/HTML-builder) | — | Dec 2024 | The main goal of this series of tasks is to understand the basics of working with the Node.js platform. The final touch will be the creation of a small application for building a static website |
 | [Christmas Shop](https://github.com/linawashere/christmas-shop/tree/gh-pages)    | [Link](https://linawashere.github.io/christmas-shop/)  | Nov 2024   | Semantic and responsive design, clean maintainable code, exporting assets from Figma, and using JavaScript for task-specific functionality |
 | [CV](https://github.com/linawashere/rsschool-cv/tree/rsschool-cv-html?tab=readme-ov-file) | [Link](https://github.com/linawashere/rsschool-cv/blob/rsschool-cv-html/cv.md)| Nov 2024 | Introduction to Markdown |
+| Project on Tilda | [Link](https://grigorovichpolina.tilda.ws/) | Sep 2024 | familiarity with the platform, ability to use basic tools when working on Tilda |
 | [Musical Director](https://github.com/linawashere/musical-director) | — | Aug 2023 | Development of a multi-page website for a music director |
 | [Psychologist]() | — | May 2023 | Development of a multi-page website for a psychologist |
 | [My first project](https://github.com/linawashere/my-very-first-project/tree/gh-pages) | [Link](https://linawashere.github.io/my-very-first-project/) | May 2016 | Introduction to markup language |
