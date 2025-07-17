@@ -52,6 +52,15 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Feedback:
+<img width="460" height="155" alt="image" src="https://github.com/user-attachments/assets/12994166-1118-45bd-98bd-a8771b8ec69e" />
+<img width="446" height="123" alt="image" src="https://github.com/user-attachments/assets/58de114d-92ff-489b-86f6-e0b19a50d32c" />
+
+### Development goals
+- Improving the quality of layout and compliance with BEM principles [In Progress](https://github.com/linawashere/museum)
+- Increasing the speed of task execution through practice with new technologies [In Progress](https://github.com/linawashere/rss-react)
+
+
 ## 📫 Contact me
 - My CV: [RS School](https://app.rs.school/cv/964bff88-32c0-48f5-b444-212f7b45cdbe)
 - Telegram: [@linnawashere](https://t.me/linnawashere)
