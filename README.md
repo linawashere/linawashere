@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 | Project           | Demo                     | Date       | What I Learned                                                                 |
 |-------------------|--------------------------|------------|-------------------------------------------------------------------------------|
-| [Personal Account on React (In Progress)]([https://github.com/linawashere/not-fight-club](https://github.com/linawashere/lk-react)) | — | Aug 2025 | Creating UI components using React |
+| [Personal Account on React (In Progress)](https://github.com/linawashere/lk-react) | — | Aug 2025 | Creating UI components using React |
 | [Not Fight Club (In Progress)](https://github.com/linawashere/not-fight-club) | [Link]() | Aug 2025 | Creating a game with basic combat mechanics, character settings and combat logs. Vanilla JS, CSS, HTML |
 | [Museum (In Progress)](https://github.com/linawashere/museum) | [Link](https://rolling-scopes-school.github.io/linawashere-JSFEPRESCHOOL2025Q2/museum) | Jul 2025 | Educational project. Parallax, animations, layout according to the layout in Figma |
 | [React Class Components](https://github.com/linawashere/rss-react) | [Link](https://linawashere.github.io/rss-react/) | Jul 2025 | A React app using class components to practice component lifecycle, state management, and error handling via Error Boundary. TypeScript, Tailwind CSS, ESLint, Prettier, Husky, REST API, localStorage |
